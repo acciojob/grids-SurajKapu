@@ -1,18 +1,16 @@
-
-/* Your CSS Code here. */
-.container {
-    border: 10px solid rgb(149, 222, 38);
-    background-color: rgb(48, 1, 1);
+.sc-container{
+    border: 3px solid greenyellow;
+    background-color: black;
+    width: 1200px;
+    margin: 50px;
 }
-.row {
+.sc-row{
+    border: 2px solid pink;
     height: 200px;
-    border: 8px solid pink;
 }
-.block {
-    border: 3px dotted black;
-}
-.container {
-    max-width: 600px;
+
+.sc-col{
+    border: 2px dotted white;
 }
 
 .r1c1{
