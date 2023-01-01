@@ -1,2 +1,35 @@
 
 /* Your CSS Code here. */
+.container {
+    border: 10px solid rgb(149, 222, 38);
+    background-color: rgb(48, 1, 1);
+}
+.row {
+    height: 200px;
+    border: 8px solid pink;
+}
+.block {
+    border: 3px dotted black;
+}
+.container {
+    max-width: 600px;
+}
+
+.r1c1{
+    background-color: teal;
+}
+.r1c2{
+background-color: thistle;
+}
+.r2c1{
+background-color:tomato;
+}
+.r2c2{
+background-color:turquoise
+}
+.r3c1{
+background-color:violet
+}
+.r3c2{
+background-color: yellowgreen;
+}
